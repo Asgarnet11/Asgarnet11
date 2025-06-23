@@ -12,7 +12,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=mysql)
 
 ## 📈 GitHub Stats
-![Asgar's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbin&show_icons=true&theme=tokyonight)
+![Asgar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asgarnet11&show_icons=true&theme=tokyonight)
 
 ## 🔗 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/asgar)
