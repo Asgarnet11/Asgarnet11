@@ -10,6 +10,7 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-F55247?style=flat&logo=laravel)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
 ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=mysql)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 
 ## 📈 GitHub Stats
 ![Asgar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asgarnet11&show_icons=true&theme=tokyonight)
