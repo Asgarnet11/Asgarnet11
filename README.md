@@ -1,6 +1,6 @@
 # README.md
 
-```markdown
+
 <div align="center">
 
 # 🚀 Asgar Wahyudi
@@ -174,4 +174,3 @@ Current Status:
 **⭐ Star my repositories if you find them interesting! | Beri bintang pada repository saya jika menarik!**
 
 </div>
-```
