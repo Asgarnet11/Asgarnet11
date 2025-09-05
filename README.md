@@ -8,7 +8,7 @@
 
 ---
 
-### 🌟 About Me | Tentang Saya
+### 🌟 Tentang Saya
 
 </div>
 
