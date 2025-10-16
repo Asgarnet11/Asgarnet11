@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 🚀 Asgar Wahyudi
+# 🚀 Asgar Fatwahyudi
 ### ✨ Full-Stack Developer | Software Engineer | Tech Enthusiast ✨
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Passionate+Full-Stack+Developer;Building+Amazing+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
