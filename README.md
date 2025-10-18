@@ -85,7 +85,7 @@ const asgar = {
 
 <div align="center">
 
-## 🎯 What I Do | Apa Yang Saya Lakukan
+## 🎯 Apa Yang Saya Lakukan
 
 <table>
 <tr>
