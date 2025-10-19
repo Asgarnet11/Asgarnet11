@@ -141,7 +141,7 @@ const asgar = {
 
 <div align="center">
 
-## ⚡ Fun Facts | Fakta Menarik
+## ⚡ Fun Facts
 
 ```yaml
 Current Status: 
