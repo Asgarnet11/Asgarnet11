@@ -27,7 +27,7 @@ const developer = {
     tools: ["Git", "Docker", "Linux"]
   },
   
-  currentFocus: "Building scalable and maintainable applications",
+  currentFocus: "Building scalable and maintainable applications with Go & Vue.js",
   learning: ["Next.js", "DevOps", "Cloud Infrastructure"],
   available: ["Freelance", "Remote Work", "Open Source"]
 };
@@ -45,28 +45,52 @@ const developer = {
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
 ### Backend
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ### Database & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
-## GitHub Analytics
+## GitHub Activity
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Asgarnet11&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asgarnet11&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2E9EF7&text_color=c9d1d9"/>
+  
+![](https://github-readme-streak-stats.herokuapp.com/?user=Asgarnet11&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=2E9EF7&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7)
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asgarnet11&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=2E9EF7&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7" alt="GitHub Streak"/>
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asgarnet11&theme=github_dark)
+
 </div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Asgarnet11&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Asgarnet11&theme=github_dark" />
+</div>
+
+---
+
+## Current Focus
+
+**Primary Stack:**
+- **Frontend:** Vue.js for building reactive user interfaces
+- **Backend:** Go (Golang) for high-performance microservices
+- **Database:** MySQL for data persistence and optimization
+
+**Recent Projects:**
+- Developing RESTful APIs with Go
+- Building modern SPAs with Vue.js
+- Implementing clean architecture patterns
+- Database optimization and query performance tuning
 
 ---
 
