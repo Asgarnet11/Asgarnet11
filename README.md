@@ -1,174 +1,123 @@
-
 <div align="center">
 
-# 🚀 Asgar Fatwahyudi
-### ✨ Full-Stack Developer | Software Engineer | Tech Enthusiast ✨
+# Asgar Fatwahyudi
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Passionate+Full-Stack+Developer;Building+Amazing+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
+**Full-Stack Developer | Software Engineer**
 
----
-
-### 🌟 Tentang Saya
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Building+Scalable+Web+Applications;Crafting+Clean+%26+Efficient+Code;Open+to+Collaboration" alt="Typing SVG" />
 
 </div>
 
+---
+
+## About Me
+
 ```javascript
-const asgar = {
-  name: "Asgar Wahyudi",
+const developer = {
+  name: "Asgar Fatwahyudi",
   role: "Full-Stack Developer",
-  location: "Indonesia 🇮🇩",
+  location: "Indonesia",
   languages: ["Indonesian", "English"],
-  passion: "Creating scalable & beautiful applications",
   
-  currentlyLearning: ["Next.js", "DevOps", "Cloud Infrastructure"],
-  openTo: ["Freelance Projects", "Remote Work", "Collaboration"],
+  code: ["JavaScript", "PHP", "Go", "Python"],
+  technologies: {
+    frontend: ["Vue.js", "React", "HTML5", "CSS3"],
+    backend: ["Laravel", "CodeIgniter", "Go"],
+    database: ["MySQL"],
+    tools: ["Git", "Docker", "Linux"]
+  },
   
-  lifePhilosophy: "Code with passion, learn with curiosity! 💫"
+  currentFocus: "Building scalable and maintainable applications",
+  learning: ["Next.js", "DevOps", "Cloud Infrastructure"],
+  available: ["Freelance", "Remote Work", "Open Source"]
 };
 ```
 
+---
+
+## Tech Stack
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+### Backend
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### Database & Tools
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Asgarnet11&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asgarnet11&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2E9EF7&text_color=c9d1d9"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asgarnet11&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=2E9EF7&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7" alt="GitHub Streak"/>
+</div>
+
+---
+
+## What I Do
+
+**Web Development**
+- Design and develop full-stack web applications with modern frameworks
+- Create responsive and intuitive user interfaces
+- Build RESTful APIs and microservices architecture
+- Implement database design and optimization strategies
+
+**Code Quality**
+- Write clean, maintainable, and well-documented code
+- Follow best practices and design patterns
+- Conduct code reviews and performance optimization
+- Implement automated testing and CI/CD pipelines
+
+**Continuous Learning**
+- Stay updated with latest technology trends
+- Contribute to open source projects
+- Share knowledge through technical writing
+- Mentor junior developers
+
+---
+
+## Connect With Me
+
 <div align="center">
 
-## 🛠️ Teknologi
-
-### 🎨 Frontend Magic
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### ⚡ Backend Power
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
-### 🗄️ Database & Tools
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhasgarfatwahyudi)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:afatwahyudi@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/@asgar_disiniii)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/6282293560277)
 
 </div>
 
 ---
 
-<div align="center">
+## Open To
 
-## 📊 GitHub Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Asgarnet11&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asgarnet11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Asgarnet11&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-
-</div>
+- Freelance Projects
+- Remote Opportunities
+- Technical Collaboration
+- Mentoring & Knowledge Sharing
 
 ---
 
 <div align="center">
 
-## 🏆 GitHub Trophies 
+**Available for hire | Open to interesting projects**
 
-<img src="https://github-profile-trophy.vercel.app/?username=Asgarnet11&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🌈 Activity Graph 
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Asgarnet11&custom_title=Asgar's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🎯 Apa Yang Saya Lakukan
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 🚀 **English**
-- 🔥 Building scalable web applications
-- ⚡ Creating responsive user interfaces  
-- 🛠️ Developing robust backend systems
-- 🎨 Crafting beautiful user experiences
-- 📱 Mobile-first development approach
-- 🔧 API design & database optimization
-
-</td>
-<td align="center" width="50%">
-
-### 🚀 **Bahasa Indonesia**
-- 🔥 Membangun aplikasi web yang scalable
-- ⚡ Menciptakan antarmuka yang responsif
-- 🛠️ Mengembangkan sistem backend yang kuat
-- 🎨 Merancang pengalaman pengguna yang indah
-- 📱 Pendekatan pengembangan mobile-first
-- 🔧 Desain API & optimisasi database
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-## 🤝 Let's Connect
-
-### 📬 **Ready to collaborate? | Siap berkolaborasi?**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhasgarfatwahyudi)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afatwahyudi@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@asgar_disiniii)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282293560277)
-
-### 💡 **Open for:**
-- 🚀 **Freelance Projects** | **Proyek Freelance**
-- 💼 **Remote Opportunities** | **Kesempatan Kerja Remote** 
-- 🤝 **Collaboration** | **Kolaborasi**
-- 🎓 **Mentoring** | **Mentoring**
-
-</div>
-
----
-
-<div align="center">
-
-## ⚡ Fun Facts
-
-```yaml
-Current Status: 
-  - ☕ Fueled by coffee and curiosity | Bertenaga kopi dan rasa ingin tahu
-  - 🌙 Night owl coder | Programmer malam hari
-  - 🎮 Gaming enthusiast | Penggemar game
-  - 📚 Continuous learner | Pembelajar berkelanjutan
-  - 🌱 Growing every day | Berkembang setiap hari
-```
-
-</div>
-
----
-
-<div align="center">
-
-### 🌟 *"Code is poetry, debugging is the art of reading between the lines"* 🌟
-### 🌟 *"Kode adalah puisi, debugging adalah seni membaca di antara baris"* 🌟
-
-<img src="https://komarev.com/ghpvc/?username=Asgarnet11&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
-
-</div>
-
----
-
-<div align="center">
-
-**⭐ Star my repositories if you find them interesting! | Beri bintang pada repository saya jika menarik!**
+<img src="https://komarev.com/ghpvc/?username=Asgarnet11&color=2E9EF7&style=flat-square&label=Profile+Views"/>
 
 </div>
