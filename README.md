@@ -15,7 +15,7 @@
 ```javascript
 const developer = {
   name: "Asgar Fatwahyudi",
-  role: "Full-Stack Developer",
+  role: "Web Developer",
   location: "Indonesia",
   languages: ["Indonesian", "English"],
   
