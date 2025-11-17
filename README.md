@@ -17,7 +17,7 @@ const developer = {
   name: "Asgar Fatwahyudi",
   role: "Web Developer",
   location: "Indonesia",
-  languages: ["Indonesian", "English"],
+  languages: ["Indonesian","English"],
   
   code: ["JavaScript", "PHP", "Go", "Python"],
   technologies: {
