@@ -1,6 +1,6 @@
 <div align="center">
 
-# Muh Asgar Fatwahyudi
+# Muh Asgar Fatwahyudi S.Kom
 
 **Full-Stack Developer | Software Engineer | Tech Enthusiast**
 
