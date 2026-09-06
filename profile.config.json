@@ -1,77 +1,101 @@
 {
   "$schema": "./profile.schema.json",
   "profile": {
-    "name": "Your Name",
-    "username": "yourusername",
-    "headline": "AI Engineer & Product Builder",
-    "affiliation": "Your University or Company",
-    "location": "City, Country",
-    "status": "Learning / Building / Shipping",
+    "name": "Muh Asgar Fatwahyudi",
+    "username": "Asgarnet11",
+    "headline": "Full-Stack Developer",
+    "affiliation": "BPVP Kendari · A2Developer Kendari",
+    "location": "Kendari, Indonesia",
+    "status": "Open to work & freelance",
     "about": [
-      "I build practical systems at the intersection of artificial intelligence, software engineering, and products people can trust.",
-      "My work combines technical exploration with a builder mindset: understand the problem, test the system, and share what actually works."
+      "Full-Stack Developer based in Kendari, Indonesia, focused on Go and Vue.js. Currently interning as a Software Engineer (Prakom) at BPVP Kendari, and co-founder of A2Developer Kendari, building client websites and contributing to local coding courses.",
+      "Actively developing Teman Curhat AI, an AI chatbot for emotional support powered by the Gemini API, alongside a clean-architecture Go REST API starter kit used to speed up new backend projects."
     ]
   },
   "research": {
-    "primary": "AI Agents",
-    "direction": "Reliable autonomous systems",
-    "themes": "Tool use / evaluation / human control",
-    "narrative": "I am interested in systems that can observe state, use tools, evaluate outcomes, and take bounded actions with clear evidence and human oversight."
+    "primary": "Full-Stack Development",
+    "direction": "Full-stack product builder",
+    "themes": "Go backend, Vue.js frontend, applied AI",
+    "narrative": "Working toward building complete, production-ready products end to end: reliable Go backends, reactive Vue.js/React frontends, and practical integrations of AI APIs into tools people actually use."
   },
   "focus": [
     {
-      "name": "AI Agents",
-      "description": "Autonomous workflows, tool use, evaluation, and reliable agent behavior."
+      "name": "Go Backend",
+      "description": "Designing scalable REST APIs and clean-architecture services in Go."
+    },
+    {
+      "name": "Frontend",
+      "description": "Building reactive, component-driven interfaces with Vue.js and React."
     },
     {
       "name": "Applied AI",
-      "description": "Turning model capabilities into useful and testable software systems."
-    },
-    {
-      "name": "Developer Tools",
-      "description": "Better workflows for building, testing, and operating modern software."
+      "description": "Integrating AI APIs such as Gemini into practical, user-facing products."
     }
   ],
   "projects": [
     {
-      "name": "Project One",
-      "url": "https://github.com/yourusername/project-one",
-      "homepage": "",
-      "focus": "Primary project focus",
-      "summary": "A concise explanation of what the project does and why it matters.",
-      "heroLabel": "Primary build"
+      "name": "Teman Curhat AI",
+      "url": "https://github.com/Asgarnet11/Teman-Curhat-AI",
+      "focus": "AI chatbot for emotional support",
+      "summary": "An AI chatbot built with Python, Streamlit, and the Gemini API, offering a conversational space for emotional support. Actively maintained and under continuous development.",
+      "heroLabel": "AI Chatbot"
     },
     {
-      "name": "Project Two",
-      "url": "https://github.com/yourusername/project-two",
-      "homepage": "",
-      "focus": "Secondary project focus",
-      "summary": "A second project that supports the professional direction of this profile.",
-      "heroLabel": "Active system"
+      "name": "Go StarterPack",
+      "url": "https://github.com/Asgarnet11/StarterPack-Golang-ByAsgar",
+      "focus": "Clean-architecture Go REST API boilerplate",
+      "summary": "A reusable REST API starter kit in Go, structured with clean architecture to speed up the setup of new backend projects.",
+      "heroLabel": "Go Boilerplate"
     }
   ],
   "techStack": [
-    "TypeScript",
-    "Next.js",
+    "Go",
+    "Vue.js",
+    "React",
+    "Laravel",
+    "CodeIgniter",
     "Python",
-    "PostgreSQL",
-    "Playwright"
+    "MySQL",
+    "Git",
+    "Docker",
+    "Linux"
   ],
   "links": [
     {
-      "label": "GitHub",
-      "value": "yourusername",
-      "url": "https://github.com/yourusername",
-      "logo": "github",
-      "color": "0B1220"
+      "label": "LinkedIn",
+      "value": "muhasgarfatwahyudi",
+      "url": "https://linkedin.com/in/muhasgarfatwahyudi",
+      "logo": "linkedin",
+      "color": "0077B5"
+    },
+    {
+      "label": "Email",
+      "value": "afatwahyudi@gmail.com",
+      "url": "mailto:afatwahyudi@gmail.com",
+      "logo": "gmail",
+      "color": "D14836"
+    },
+    {
+      "label": "Telegram",
+      "value": "asgar_disiniii",
+      "url": "https://t.me/asgar_disiniii",
+      "logo": "telegram",
+      "color": "2CA5E0"
+    },
+    {
+      "label": "WhatsApp",
+      "value": "+62 822-9356-0277",
+      "url": "https://wa.me/6282293560277",
+      "logo": "whatsapp",
+      "color": "25D366"
     }
   ],
   "activity": {
     "enabled": true,
-    "limit": 6
+    "limit": 5
   },
   "appearance": {
-    "palette": "signal"
+    "palette": "ocean"
   },
-  "footer": "Building thoughtful systems and sharing what works."
+  "footer": "Building thoughtful products with Go, Vue.js, and applied AI."
 }
