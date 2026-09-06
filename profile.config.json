@@ -71,10 +71,11 @@
     {
       "label": "Email",
       "value": "afatwahyudi@gmail.com",
-      "url": "mailto:afatwahyudi@gmail.com",
+      "url": "https://mail.google.com/mail/?view=cm&fs=1&to=afatwahyudi@gmail.com",
       "logo": "gmail",
       "color": "D14836"
     },
+
     {
       "label": "Telegram",
       "value": "asgar_disiniii",
