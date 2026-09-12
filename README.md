@@ -35,7 +35,7 @@ Actively developing Teman Curhat AI, an AI chatbot for emotional support powered
 | Project | Focus | Why it matters |
 | --- | --- | --- |
 | [**Teman Curhat AI**](https://github.com/Asgarnet11/Teman-Curhat-AI) | AI chatbot for emotional support | An AI chatbot built with Python, Streamlit, and the Gemini API, offering a conversational space for emotional support. Actively maintained and under continuous development. |
-| [**Go StarterPack**](https://github.com/Asgarnet11/StarterPack-Golang-ByAsgar) | Clean-architecture Go REST API boilerplate | A reusable REST API starter kit in Go, structured with clean architecture to speed up the setup of new backend projects. |
+| [**Go StarterPack**](https://github.com/Asgarnet11/StarterPack-Golang-ByAsgar) | Clean-architecture Go REST API boilerplate | A reusable REST API starter kit in Go, structured with clean architecture to speed up the setup of new backend projects |
 
 ## Research Direction
 
