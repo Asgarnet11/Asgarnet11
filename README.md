@@ -16,39 +16,76 @@
   <a href="https://wa.me/6282293560277"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-%2B62_822--9356--0277-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </p>
 
-## About Me
+## 👨‍💻 About Me
 
 Full-Stack Developer based in Kendari, Indonesia, focused on Go and Vue.js. Currently interning as a Software Engineer (Prakom) at BPVP Kendari, and co-founder of A2Developer Kendari, building client websites and contributing to local coding courses.
 
 Actively developing Teman Curhat AI, an AI chatbot for emotional support powered by the Gemini API, alongside a clean-architecture Go REST API starter kit used to speed up new backend projects.
 
-## Current Focus
+## 🎯 Current Focus
 
 | Area | What I am exploring |
-| --- | --- |
-| **Go Backend** | Designing scalable REST APIs and clean-architecture services in Go. |
-| **Frontend** | Building reactive, component-driven interfaces with Vue.js and React. |
-| **Applied AI** | Integrating AI APIs such as Gemini into practical, user-facing products. |
+| :--- | :--- |
+| 🟢 **Go Backend** | Designing scalable REST APIs and clean-architecture services in Go. |
+| 🟢 **Frontend** | Building reactive, component-driven interfaces with Vue.js and React. |
+| 🟢 **Applied AI** | Integrating AI APIs such as Gemini into practical, user-facing products. |
 
-## Featured Work
+## 🚀 Featured Work
+
+<p align="center">
+  <a href="https://github.com/Asgarnet11/Teman-Curhat-AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Asgarnet11&repo=Teman-Curhat-AI&bg_color=0d1117&title_color=00FF66&text_color=c9d1d9&icon_color=00FF66&border_color=238636" alt="Teman Curhat AI" /></a>
+  <a href="https://github.com/Asgarnet11/StarterPack-Golang-ByAsgar"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Asgarnet11&repo=StarterPack-Golang-ByAsgar&bg_color=0d1117&title_color=00FF66&text_color=c9d1d9&icon_color=00FF66&border_color=238636" alt="Go StarterPack" /></a>
+</p>
 
 | Project | Focus | Why it matters |
-| --- | --- | --- |
+| :--- | :--- | :--- |
 | [**Teman Curhat AI**](https://github.com/Asgarnet11/Teman-Curhat-AI) | AI chatbot for emotional support | An AI chatbot built with Python, Streamlit, and the Gemini API, offering a conversational space for emotional support. Actively maintained and under continuous development. |
-| [**Go StarterPack**](https://github.com/Asgarnet11/StarterPack-Golang-ByAsgar) | Clean-architecture Go REST API boilerplate | A reusable REST API starter kit in Go, structured with clean architecture to speed up the setup of new backend projects |
+| [**Go StarterPack**](https://github.com/Asgarnet11/StarterPack-Golang-ByAsgar) | Clean-architecture Go REST API boilerplate | A reusable REST API starter kit in Go, structured with clean architecture to speed up the setup of new backend projects. |
 
-## Research Direction
+## 🔭 Research & Product Direction
 
 Working toward building complete, production-ready products end to end: reliable Go backends, reactive Vue.js/React frontends, and practical integrations of AI APIs into tools people actually use.
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-`Go` · `Vue.js` · `React` · `Laravel` · `CodeIgniter` · `Python` · `MySQL` · `Git` · `Docker` · `Linux`
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,vue,react,laravel,python,mysql,git,docker,linux&theme=dark" alt="Tech Stack Icons" />
+  </a>
+</p>
 
-## Recent Activity
+<p align="center">
+  `Go` · `Vue.js` · `React` · `Laravel` · `CodeIgniter` · `Python` · `MySQL` · `Git` · `Docker` · `Linux`
+</p>
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Asgarnet11&show_icons=true&bg_color=0d1117&title_color=00FF66&text_color=c9d1d9&icon_color=00FF66&border_color=238636&hide_border=false" alt="Asgarnet11's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Asgarnet11&theme=dark&background=0D1117&border=238636&stroke=238636&ring=00FF66&fire=00FF66&currStreakLabel=00FF66" alt="Asgarnet11's GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asgarnet11&layout=compact&bg_color=0d1117&title_color=00FF66&text_color=c9d1d9&border_color=238636&hide_border=false" alt="Top Languages" />
+</p>
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asgarnet11/Asgarnet11/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Asgarnet11/Asgarnet11/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/Asgarnet11/Asgarnet11/output/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
+</p>
+
+## ⚡ Recent Activity
 
 <!-- AUTO:ACTIVITY:START -->
-_Recent public activity will appear here after the workflow runs._
+- Oct 6, 2026: created a branch in [Asgarnet11/undangan-adat](https://github.com/Asgarnet11/undangan-adat).
+- Oct 6, 2026: pushed 1 commit to [Asgarnet11/undangan-adat](https://github.com/Asgarnet11/undangan-adat).
+- Oct 1, 2026: pushed 1 commit to [Asgarnet11/my-portfolio](https://github.com/Asgarnet11/my-portfolio).
+- Sep 24, 2026: pushed 1 commit to [Asgarnet11/my-portfolio](https://github.com/Asgarnet11/my-portfolio).
+- Sep 19, 2026: pushed 1 commit to [Asgarnet11/my-portfolio](https://github.com/Asgarnet11/my-portfolio).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
