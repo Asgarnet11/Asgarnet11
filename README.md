@@ -10,75 +10,47 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/muhasgarfatwahyudi"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-muhasgarfatwahyudi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=afatwahyudi@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-afatwahyudi%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://t.me/asgar_disiniii"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-asgar__disiniii-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  <a href="https://wa.me/6282293560277"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-%2B62_822--9356--0277-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="https://linkedin.com/in/muhasgarfatwahyudi">LinkedIn</a> · <a href="https://mail.google.com/mail/?view=cm&fs=1&to=afatwahyudi@gmail.com">Email</a> · <a href="https://t.me/asgar_disiniii">Telegram</a> · <a href="https://wa.me/6282293560277">WhatsApp</a>
 </p>
 
-## 👨‍💻 About Me
+---
 
-Full-Stack Developer based in Kendari, Indonesia, focused on Go and Vue.js. Currently interning as a Software Engineer (Prakom) at BPVP Kendari, and co-founder of A2Developer Kendari, building client websites and contributing to local coding courses.
+Full-stack developer in Kendari, Indonesia. Most of my day-to-day work is in **Go** on the backend and **Vue.js / React** on the frontend, alongside practical **Gemini API** integrations.
 
-Actively developing Teman Curhat AI, an AI chatbot for emotional support powered by the Gemini API, alongside a clean-architecture Go REST API starter kit used to speed up new backend projects.
+Currently interning as a Software Engineer (Prakom) at **BPVP Kendari** and co-founding **A2Developer Kendari**, where we build client web apps and run local coding courses.
 
-## 🎯 Current Focus
+### Selected Work
 
-| Area | What I am exploring |
-| :--- | :--- |
-| 🟢 **Go Backend** | Designing scalable REST APIs and clean-architecture services in Go. |
-| 🟢 **Frontend** | Building reactive, component-driven interfaces with Vue.js and React. |
-| 🟢 **Applied AI** | Integrating AI APIs such as Gemini into practical, user-facing products. |
+- [**Teman Curhat AI**](https://github.com/Asgarnet11/Teman-Curhat-AI) — An AI chatbot built with Python, Streamlit, and the Gemini API, offering a conversational space for emotional support. Actively maintained and under continuous development.
+- [**Go StarterPack**](https://github.com/Asgarnet11/StarterPack-Golang-ByAsgar) — A reusable REST API starter kit in Go, structured with clean architecture to speed up the setup of new backend projects.
+- [**Web Desa**](https://github.com/Asgarnet11/web-desa) — Village information and portal web application built with Laravel and Blade.
+- [**My Portfolio**](https://github.com/Asgarnet11/my-portfolio) — Personal developer portfolio built with React and TypeScript. · [Live](https://asgarnet.vercel.app)
+- [**Vokasi App**](https://github.com/Asgarnet11/vokasi_app) — Vocational application project built with Python.
 
-## 🚀 Featured Work
+### Stack
 
+- **Backend:** `Go` · `Laravel` · `CodeIgniter` · `Python`
+- **Frontend:** `Vue.js` · `React` · `TypeScript`
+- **Data & Infra:** `MySQL` · `Git` · `Docker` · `Linux`
+
+### Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asgarnet11/Asgarnet11/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Asgarnet11/Asgarnet11/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Asgarnet11/Asgarnet11/output/github-contribution-grid-snake-dark.svg" width="100%">
+</picture>
+
+<details>
+<summary>GitHub Stats &amp; Top Languages</summary>
+<br />
 <p align="center">
-  <a href="https://github.com/Asgarnet11/Teman-Curhat-AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Asgarnet11&repo=Teman-Curhat-AI&bg_color=0d1117&title_color=00FF66&text_color=c9d1d9&icon_color=00FF66&border_color=238636" alt="Teman Curhat AI" /></a>
-  <a href="https://github.com/Asgarnet11/StarterPack-Golang-ByAsgar"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Asgarnet11&repo=StarterPack-Golang-ByAsgar&bg_color=0d1117&title_color=00FF66&text_color=c9d1d9&icon_color=00FF66&border_color=238636" alt="Go StarterPack" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Asgarnet11&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&hide_border=false" alt="Asgarnet11's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asgarnet11&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&hide_border=false" alt="Top Languages" />
 </p>
+</details>
 
-| Project | Focus | Why it matters |
-| :--- | :--- | :--- |
-| [**Teman Curhat AI**](https://github.com/Asgarnet11/Teman-Curhat-AI) | AI chatbot for emotional support | An AI chatbot built with Python, Streamlit, and the Gemini API, offering a conversational space for emotional support. Actively maintained and under continuous development. |
-| [**Go StarterPack**](https://github.com/Asgarnet11/StarterPack-Golang-ByAsgar) | Clean-architecture Go REST API boilerplate | A reusable REST API starter kit in Go, structured with clean architecture to speed up the setup of new backend projects. |
-
-## 🔭 Research & Product Direction
-
-Working toward building complete, production-ready products end to end: reliable Go backends, reactive Vue.js/React frontends, and practical integrations of AI APIs into tools people actually use.
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,vue,react,laravel,python,mysql,git,docker,linux&theme=dark" alt="Tech Stack Icons" />
-  </a>
-</p>
-
-<p align="center">
-  `Go` · `Vue.js` · `React` · `Laravel` · `CodeIgniter` · `Python` · `MySQL` · `Git` · `Docker` · `Linux`
-</p>
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Asgarnet11&show_icons=true&bg_color=0d1117&title_color=00FF66&text_color=c9d1d9&icon_color=00FF66&border_color=238636&hide_border=false" alt="Asgarnet11's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=Asgarnet11&theme=dark&background=0D1117&border=238636&stroke=238636&ring=00FF66&fire=00FF66&currStreakLabel=00FF66" alt="Asgarnet11's GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asgarnet11&layout=compact&bg_color=0d1117&title_color=00FF66&text_color=c9d1d9&border_color=238636&hide_border=false" alt="Top Languages" />
-</p>
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asgarnet11/Asgarnet11/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Asgarnet11/Asgarnet11/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/Asgarnet11/Asgarnet11/output/github-contribution-grid-snake-dark.svg" width="100%">
-  </picture>
-</p>
-
-## ⚡ Recent Activity
+### Recent Activity
 
 <!-- AUTO:ACTIVITY:START -->
 - Nov 27, 2026: pushed 1 commit to [Asgarnet11/web-desa](https://github.com/Asgarnet11/web-desa).
@@ -91,5 +63,5 @@ Working toward building complete, production-ready products end to end: reliable
 ---
 
 <p align="center">
-  Building thoughtful products with Go, Vue.js, and applied AI.
+  <sub>Kendari, Indonesia · Open to work & freelance</sub>
 </p>

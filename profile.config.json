@@ -8,8 +8,8 @@
     "location": "Kendari, Indonesia",
     "status": "Open to work & freelance",
     "about": [
-      "Full-Stack Developer based in Kendari, Indonesia, focused on Go and Vue.js. Currently interning as a Software Engineer (Prakom) at BPVP Kendari, and co-founder of A2Developer Kendari, building client websites and contributing to local coding courses.",
-      "Actively developing Teman Curhat AI, an AI chatbot for emotional support powered by the Gemini API, alongside a clean-architecture Go REST API starter kit used to speed up new backend projects."
+      "Full-stack developer in Kendari, Indonesia. Most of my day-to-day work is in **Go** on the backend and **Vue.js / React** on the frontend, alongside practical **Gemini API** integrations.",
+      "Currently interning as a Software Engineer (Prakom) at **BPVP Kendari** and co-founding **A2Developer Kendari**, where we build client web apps and run local coding courses."
     ]
   },
   "research": {
@@ -46,12 +46,35 @@
       "focus": "Clean-architecture Go REST API boilerplate",
       "summary": "A reusable REST API starter kit in Go, structured with clean architecture to speed up the setup of new backend projects.",
       "heroLabel": "Go Boilerplate"
+    },
+    {
+      "name": "Web Desa",
+      "url": "https://github.com/Asgarnet11/web-desa",
+      "focus": "Village portal web app (Laravel)",
+      "summary": "Village information and portal web application built with Laravel and Blade.",
+      "heroLabel": "Laravel Web"
+    },
+    {
+      "name": "My Portfolio",
+      "url": "https://github.com/Asgarnet11/my-portfolio",
+      "homepage": "https://asgarnet.vercel.app",
+      "focus": "Personal portfolio (React & TypeScript)",
+      "summary": "Personal developer portfolio built with React and TypeScript.",
+      "heroLabel": "React Portfolio"
+    },
+    {
+      "name": "Vokasi App",
+      "url": "https://github.com/Asgarnet11/vokasi_app",
+      "focus": "Vocational application (Python)",
+      "summary": "Vocational application project built with Python.",
+      "heroLabel": "Python App"
     }
   ],
   "techStack": [
     "Go",
     "Vue.js",
     "React",
+    "TypeScript",
     "Laravel",
     "CodeIgniter",
     "Python",
@@ -98,5 +121,5 @@
   "appearance": {
     "palette": "ocean"
   },
-  "footer": "Building thoughtful products with Go, Vue.js, and applied AI."
+  "footer": "Kendari, Indonesia · Open to work & freelance"
 }
