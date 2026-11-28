@@ -53,11 +53,11 @@ Currently interning as a Software Engineer (Prakom) at **BPVP Kendari** and co-f
 ### Recent Activity
 
 <!-- AUTO:ACTIVITY:START -->
+- Nov 26, 2026: pushed 1 commit to [Asgarnet11/web-desa](https://github.com/Asgarnet11/web-desa).
+- Nov 28, 2026: pushed 1 commit to [Asgarnet11/my-portfolio](https://github.com/Asgarnet11/my-portfolio).
 - Nov 28, 2026: closed issue [#3](https://github.com/Asgarnet11/Asgarnet11/issues/3) in [Asgarnet11/Asgarnet11](https://github.com/Asgarnet11/Asgarnet11).
 - Nov 28, 2026: opened issue [#3](https://github.com/Asgarnet11/Asgarnet11/issues/3) in [Asgarnet11/Asgarnet11](https://github.com/Asgarnet11/Asgarnet11).
 - Nov 28, 2026: merged pull request [#2](https://github.com/Asgarnet11/Asgarnet11) in [Asgarnet11/Asgarnet11](https://github.com/Asgarnet11/Asgarnet11).
-- Nov 28, 2026: opened pull request [#2](https://github.com/Asgarnet11/Asgarnet11) in [Asgarnet11/Asgarnet11](https://github.com/Asgarnet11/Asgarnet11).
-- Nov 28, 2026: merged pull request [#1](https://github.com/Asgarnet11/Asgarnet11) in [Asgarnet11/Asgarnet11](https://github.com/Asgarnet11/Asgarnet11).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
